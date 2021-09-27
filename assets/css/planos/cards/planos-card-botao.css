@@ -5,3 +5,10 @@
     padding: 1rem;
     width: 50%;
 }
+
+@media screen and (min-width: 1024px) {
+    .planos__card--botao {
+        width: 70%;
+        margin: 1rem auto;
+    }    
+}

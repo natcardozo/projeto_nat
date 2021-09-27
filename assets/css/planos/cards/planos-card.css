@@ -6,3 +6,9 @@
     padding: .5rem;
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
 }
+
+@media screen and (min-width: 1024px) {
+    .planos__card {
+        padding: 1.5rem;
+    }
+}

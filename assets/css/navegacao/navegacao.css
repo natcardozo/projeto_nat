@@ -2,3 +2,10 @@
     display: block;
     text-align: center;
 }
+
+@media screen and (min-width: 1024px) {
+    .navegacao {
+        display: flex;
+        align-items: center;
+    }    
+}
