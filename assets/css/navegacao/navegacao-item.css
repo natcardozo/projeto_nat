@@ -1,6 +1,6 @@
 .navegacao__item {
     font-family: 'Open Sans', sans-serif;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 100;
     display: inline;
     margin: 0 .2rem;
@@ -10,4 +10,10 @@
     color: #fdfdfd;
     text-decoration: none;
     text-transform: uppercase;
+}
+
+@media screen and (min-width: 768px) {
+    .navegacao__item {
+        margin: 0 3rem;
+    }
 }

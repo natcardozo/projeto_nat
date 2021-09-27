@@ -3,3 +3,11 @@
     padding: 1rem;
     text-align: center;
 }
+
+@media screen and (min-width: 768px) {
+    .rodape {
+        display: flex;
+        text-align: unset;
+        align-items: center;
+    }    
+}

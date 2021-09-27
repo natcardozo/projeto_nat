@@ -2,3 +2,11 @@
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
 }
+
+@media screen and (min-width: 768px) {
+    .rodape__contato {
+        display: inline-flex;
+        margin-right: 2rem;
+        font-size: 16px;
+    }    
+}
