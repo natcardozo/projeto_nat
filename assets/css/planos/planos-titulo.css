@@ -1,0 +1,8 @@
+.planos__titulo {
+    color: #525252;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+}

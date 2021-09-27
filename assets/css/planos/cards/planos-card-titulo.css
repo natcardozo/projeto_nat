@@ -1,0 +1,8 @@
+.planos__card--titulo {
+    color: #303030;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    margin: 1rem 0;
+    text-transform: uppercase;
+}

@@ -1,0 +1,13 @@
+.navegacao__item {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    font-weight: 100;
+    display: inline;
+    margin: 0 .2rem;
+}
+
+.navegacao__item a {
+    color: #fdfdfd;
+    text-decoration: none;
+    text-transform: uppercase;
+}
