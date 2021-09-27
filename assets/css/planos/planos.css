@@ -3,3 +3,9 @@
     padding: 1.5rem;
     text-align: center;
 }
+
+@media screen and (min-width: 1024px) {
+    .planos {
+        height: calc(100vh - 446px);
+    }
+}
